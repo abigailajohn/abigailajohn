@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abigail</h1>
+<h1 align="center">Hi, I'm Abigail</h1>
 <h3 align="center">Passionate about Cybersecurity & Ethical Hacking</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/04/21060248/Animation-1200-x-900.gif">
 
 - 🔭 I’m currently working on **Improve my Ethical Hacking skills**
 
