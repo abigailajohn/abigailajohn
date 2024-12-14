@@ -1,23 +1,23 @@
 <h1 align="center">Hi, I'm Abigail</h1>
-<h3 align="center">Passionate about Cybersecurity & Ethical Hacking</h3>
+<h3 align="center">Application Security Engineer</h3>
 
-- 🔭 I’m currently working on **Improve my Ethical Hacking skills**
+- 🔭 I’m currently working on **improving my skills in Application Security**
 
-- 🌱 I’m currently learning **Web & API Hacking**
+- 🌱 I’m currently learning **secure code review & devsecops**
 
-- 👯 I’m looking to collaborate on **cybersecurity and writing projects**
+- 👯 I’m looking to collaborate on **application security projects**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/meet-abeejohn](https://bit.ly/meet-abeejohn)
+<!-- - 👨‍💻 All of my projects are available at [https://bit.ly/meet-abeejohn](https://bit.ly/meet-abeejohn) -->
 
-- 📝 I regularly write articles on [https://medium.com/@abigailainyang](https://medium.com/@abigailainyang)
+- 📝 I regularly write articles on [Medium](https://medium.com/@abigailainyang)
 
-- 💬 Ask me about **Cybersecurity & Ethical Hacking**
+- 💬 Ask me about **Cybersecurity & Application Security**
 
-- 📫 How to reach me **on Twitter @Abee_john**
+- 📫 How to reach me **on LinkedIn @Abigail Inyang**
 
-- 📄 Know about my experiences [https://bit.ly/abee_resume](https://bit.ly/abee_resume)
+- 📄 Know about my experiences [here](https://tinyurl.com/abee-resume)
 
-- ⚡ Fun fact **hacking makes me happy!!!**
+- ⚡ Fun fact **I love gaming!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
