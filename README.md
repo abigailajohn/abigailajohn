@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my skills in Application Security**
 
-- 🌱 I’m currently learning **secure code review & devsecops**
+- 🌱 I’m currently learning **secure code review, devsecops & mobile pentesting**
 
 - 👯 I’m looking to collaborate on **application security projects**
 
@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@abigailainyang)
 
-- 💬 Ask me about **Cybersecurity & Application Security**
+- 💬 Ask me about **Cybersecurity, Application Security & DevSecOps**
 
 - 📫 How to reach me **on LinkedIn @Abigail Inyang**
 
-- 📄 Know about my experiences [here](https://tinyurl.com/abee-resume)
+- 📄 Know about my experiences [here](https://tinyurl.com/abigaila-cv)
 
 - ⚡ Fun fact **I love gaming!!**
 
