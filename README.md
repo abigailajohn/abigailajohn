@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **on LinkedIn @Abigail Inyang**
 
-- 📄 Know about my experiences [here](https://tinyurl.com/abigaila-cv)
+- 📄 Know about my experiences [here](https://tinyurl.com/abeegal-cv)
 
 - ⚡ Fun fact **I love gaming!!**
 
