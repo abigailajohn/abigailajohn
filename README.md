@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my skills in Application Security**
 
-- 🌱 I’m currently learning **secure code review, devsecops & mobile pentesting**
+- 🌱 I’m currently learning **secure code review, devsecops, mobile pentesting & AI security**
 
 - 👯 I’m looking to collaborate on **application security projects**
 
